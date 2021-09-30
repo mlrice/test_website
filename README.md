@@ -10,7 +10,7 @@
 </body>
 </html>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Michelle Rice](/test_website/Michelle R-1(2).png)
 
 ## Welcome to GitHub Pages
 
