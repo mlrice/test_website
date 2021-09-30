@@ -10,7 +10,7 @@
 </body>
 </html>
 
-![Michelle Rice](Michelle R-1(2).jpg)
+![](Michelle R-1(2).jpg)
 
 ## Welcome to GitHub Pages
 
