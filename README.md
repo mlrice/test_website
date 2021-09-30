@@ -10,6 +10,8 @@
 </body>
 </html>
 
+![Tux, the Linux mascot](/assets/images/tux.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mlrice/test_website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
