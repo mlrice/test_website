@@ -10,7 +10,7 @@
 </body>
 </html>
 
-![](Michelle R-1(2).jpg)
+test_website/Michelle R-1(2).jpg
 
 ## Welcome to GitHub Pages
 
